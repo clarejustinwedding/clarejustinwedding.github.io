@@ -26,12 +26,21 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="29" selection-start="1768" selection-end="1774" vertical-scroll-proportion="0.33233082" vertical-offset="663" max-vertical-offset="4573">
+            <state line="255" column="62" selection-start="9460" selection-end="9460" vertical-scroll-proportion="0.6421053" vertical-offset="3908" max-vertical-offset="4573">
               <folding>
                 <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="send.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/send.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="40" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -49,6 +58,14 @@
   <component name="GitLogSettings">
     <option name="myDateState">
       <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/send.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -155,9 +172,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/send.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="40" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="29" selection-start="1768" selection-end="1774" vertical-scroll-proportion="0.33233082" vertical-offset="663" max-vertical-offset="4573">
+        <state line="255" column="62" selection-start="9460" selection-end="9460" vertical-scroll-proportion="0.6421053" vertical-offset="3908" max-vertical-offset="4573">
           <folding>
             <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />

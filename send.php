@@ -1,5 +1,5 @@
 <?php
-$YourEmailAddress = ""; //enter your e-mail address here, ex. $YourEmailAddress = "info@pehaa.com"; 
+$YourEmailAddress = "danielodd@gmail.com"; //enter your e-mail address here, ex. $YourEmailAddress = "info@pehaa.com";
 
 //  SEND
 //
