@@ -34,10 +34,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="red.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="red.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/red.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="431" column="29" selection-start="9804" selection-end="9804" vertical-scroll-proportion="0.14285715" vertical-offset="7212" max-vertical-offset="25687">
+            <state line="431" column="29" selection-start="9804" selection-end="9804" vertical-scroll-proportion="-4.6" vertical-offset="7212" max-vertical-offset="25687">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="send.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/send.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="40" selection-start="46" selection-end="46" vertical-scroll-proportion="0.020166073" vertical-offset="0" max-vertical-offset="843">
               <folding />
             </state>
           </provider>
@@ -61,11 +70,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/send.php" />
         <option value="$PROJECT_DIR$/javascript/save_the_date.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/javascript/save_the_date-ck.js" />
         <option value="$PROJECT_DIR$/stylesheets/red.css" />
+        <option value="$PROJECT_DIR$/send.php" />
       </list>
     </option>
   </component>
@@ -325,13 +334,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/send.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="2" selection-start="1438" selection-end="1438" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/save_the_date.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="28" selection-start="2309" selection-end="2309" vertical-scroll-proportion="0.0" vertical-offset="719" max-vertical-offset="5661">
@@ -357,7 +359,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/red.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="431" column="29" selection-start="9804" selection-end="9804" vertical-scroll-proportion="0.14285715" vertical-offset="7212" max-vertical-offset="25687">
+        <state line="431" column="29" selection-start="9804" selection-end="9804" vertical-scroll-proportion="-4.6" vertical-offset="7212" max-vertical-offset="25687">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="40" selection-start="46" selection-end="46" vertical-scroll-proportion="0.020166073" vertical-offset="0" max-vertical-offset="843">
           <folding />
         </state>
       </provider>
