@@ -394,7 +394,7 @@ h4 {
     transition: 1s;
     padding-bottom: 2em; }
 .borderradius .dayAfter h2 {
-    background-color: #459fa2;
+    background-color: #CCFFD9;
     position: absolute;
     left: 50%;
     top: -100px;
@@ -415,7 +415,7 @@ h4 {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     max-height: 1200px;
-    background-image: url(../images/pattern-7.jpg);
+    background-image: url(../images/pattern-9.jpg);
     text-align: center;
     -webkit-transition: 1s;
     padding-bottom: 100px;}
@@ -429,7 +429,7 @@ h4 {
     transition: 1s;
     padding-bottom: 2em; }
 .borderradius .travel h2 {
-    background-color: #459fa2;
+    background-color: #FFE7CC;
     position: absolute;
     left: 50%;
     top: -100px;
@@ -450,7 +450,7 @@ h4 {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     max-height: 1200px;
-    background-image: url(../images/pattern-7.jpg);
+    background-image: url(../images/pattern-8.jpg);
     text-align: center;
     -webkit-transition: 1s;
     padding-bottom: 100px;}
@@ -464,7 +464,7 @@ h4 {
     transition: 1s;
     padding-bottom: 2em; }
 .borderradius .activities h2 {
-    background-color: #459fa2;
+    background-color: #FFE5F7;
     position: absolute;
     left: 50%;
     top: -100px;

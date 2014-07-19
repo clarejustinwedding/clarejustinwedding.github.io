@@ -26,43 +26,18 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="145" column="21" selection-start="5701" selection-end="5701" vertical-scroll-proportion="-2.745098" vertical-offset="2325" max-vertical-offset="5372">
-              <folding />
+            <state line="187" column="20" selection-start="7979" selection-end="7982" vertical-scroll-proportion="-5.0784316" vertical-offset="2920" max-vertical-offset="5372">
+              <folding>
+                <element signature="n#style#0;n#li#4;n#ul#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="save_the_date-ck.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript/save_the_date-ck.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="904" selection-start="1070" selection-end="1070" vertical-scroll-proportion="0.35334873" vertical-offset="0" max-vertical-offset="433">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="save_the_date.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript/save_the_date.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="28" selection-start="2309" selection-end="2309" vertical-scroll-proportion="0.0" vertical-offset="719" max-vertical-offset="5661">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="red.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="red.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheets/red.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="704" column="8" selection-start="16325" selection-end="16325" vertical-scroll-proportion="-478.72" vertical-offset="0" max-vertical-offset="25687">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="send.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/send.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="2" selection-start="1438" selection-end="1438" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+            <state line="431" column="29" selection-start="9804" selection-end="9804" vertical-scroll-proportion="0.14285715" vertical-offset="7212" max-vertical-offset="25687">
               <folding />
             </state>
           </provider>
@@ -87,10 +62,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/send.php" />
-        <option value="$PROJECT_DIR$/stylesheets/red.css" />
         <option value="$PROJECT_DIR$/javascript/save_the_date.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/javascript/save_the_date-ck.js" />
+        <option value="$PROJECT_DIR$/stylesheets/red.css" />
       </list>
     </option>
   </component>
@@ -231,15 +206,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45684695" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32451093" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24984913" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24924563" sideWeight="0.54315305" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24924563" sideWeight="0.67548907" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -275,7 +250,9 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="132" column="16" selection-start="5026" selection-end="5026" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5355">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#li#4;n#ul#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -296,7 +273,9 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="132" column="16" selection-start="5026" selection-end="5026" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5355">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#li#4;n#ul#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -317,7 +296,9 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="152" column="36" selection-start="5750" selection-end="5750" vertical-scroll-proportion="0.0" vertical-offset="2191" max-vertical-offset="4522">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#li#4;n#ul#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -331,7 +312,9 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="152" column="36" selection-start="5750" selection-end="5750" vertical-scroll-proportion="0.0" vertical-offset="2191" max-vertical-offset="4522">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#li#4;n#ul#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -349,20 +332,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/red.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="704" column="8" selection-start="16325" selection-end="16325" vertical-scroll-proportion="-478.72" vertical-offset="0" max-vertical-offset="25687">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="21" selection-start="5701" selection-end="5701" vertical-scroll-proportion="-2.745098" vertical-offset="2325" max-vertical-offset="5372">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/save_the_date.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="28" selection-start="2309" selection-end="2309" vertical-scroll-proportion="0.0" vertical-offset="719" max-vertical-offset="5661">
@@ -372,7 +341,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript/save_the_date-ck.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="904" selection-start="1070" selection-end="1070" vertical-scroll-proportion="0.35334873" vertical-offset="0" max-vertical-offset="433">
+        <state line="9" column="904" selection-start="1070" selection-end="1070" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="187" column="20" selection-start="7979" selection-end="7982" vertical-scroll-proportion="-5.0784316" vertical-offset="2920" max-vertical-offset="5372">
+          <folding>
+            <element signature="n#style#0;n#li#4;n#ul#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/red.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="431" column="29" selection-start="9804" selection-end="9804" vertical-scroll-proportion="0.14285715" vertical-offset="7212" max-vertical-offset="25687">
           <folding />
         </state>
       </provider>
