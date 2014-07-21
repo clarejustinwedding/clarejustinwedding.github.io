@@ -54,7 +54,7 @@ if ((meta = meta[meta.length - 1]) && addEvent in doc) {
 $(document).ready(function() {
 	// init Save the Date
 	save_the_date.init({
-		weddingDate: "2014/10/09, 11:00", 
+		weddingDate: "2015/02/28, 11:00",
 		//Date : enter your wedding date
     labels: ["days", "hours", "minutes", "secs"], 
 		//Array of strings : labels of time units
@@ -80,9 +80,10 @@ $(document).ready(function() {
 			<a  id="full-menu" href="#">&equiv;</a>
 			<a class="active to-scroll" href="#top">Home</a>
 			<a class="to-scroll" href="#ceremony">Ceremony</a>
-			<a class="to-scroll" href="#dayAfter">Day After</a>
+			<a class="to-scroll" href="#dayAfter">Day Before</a>
             <a class="to-scroll" href="#activities">Activities</a>
             <a class="to-scroll" href="#travel">Travel</a>
+            <a class="to-scroll" href="#accommodation">Accommodation</a>
 			<a href="#" id="gallery">Gallery</a>
 			<a class="to-scroll" href="#rsvp">R.S.V.P.</a>
 
@@ -92,80 +93,56 @@ $(document).ready(function() {
 	
 	<!-- HEADER STARTS -->
 	<header class="header" role="banner">
-				<h1 class="wrapper"><span>Clare</span> & <span>Justin</span></h1>
-				<!-- <div class="images"><span class="her pile"></span><span class="him pile"></span></div> -->
+				<h1 class="">Clare &amp; Justin</h1>
 				<img alt="Clare and Justin" src="images/ClareJustinTitle.jpg" />
 				<h2>
-					<span class="event">are getting married...</span>
-					<span class="date">09.10.2014</span>
-					<span id="timer" class="timer"></span>
-				</h2>		
+					<div class="event">are getting married...</div>
+					<div class="date">28.02.2015</div>
+					<div id="timer" class="timer"></div>
+                    <br />
+                    <img src="images/decor-red.png" style="padding-top: 15px;"/>
+				</h2>
+
 	</header>	
 	<!-- HEADER ENDS -->
 	
 	<!--- MAIN CONTENT STARTS -->
 	<div class="content">
-	
-			<!-- ABOUT SECTION STARTS
-			<section id="about" class="about clearfix">
-				<div class="she">
-					<p>
-						<strong>Clare Berghofer</strong> sed posuere consectetur est at lobortis. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
-						</p>
-				</div>
-				<div class="he">
-					<p>
-						<strong>Justin Odd</strong> sed posuere consectetur est at lobortis. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
-					</p>
-				</div>
-				<div class="they">
-					<p>
-						<strong>They</strong> sed posuere consectetur est at lobortis. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
-					</p>
-					<p>Nulla vitae elit libero, a pharetra augue. Maecenas faucibus mollis interdum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-					</p>
-				</div>
-			</section>
-			<!-- ABOUT SECTION ENDS -->
-			
-			
+        <div class="flexslider">
+            <ul class="slides">
+                <li style="background-image: url(images/slider/beach2.png);"></li>
+                <li style="background-image: url(images/slider/beach3.png);"></li>
+                <li style="background-image: url(images/slider/beach4.png);"></li>
+                <li style="background-image: url(images/slider/beach5.png);"></li>
+                <li style="background-image: url(images/slider/overview1.png);"></li>
+                <li class="fixed" style="background-image: url(images/slider/beach1.png);"></li>
+            </ul>
+        </div>
+
+
 			<!-- CEREMONY SECTION STARTS -->
-			<section class="flex-container ceremony">
-				
-				<div class="flexslider">
-					<ul class="slides">
-                        <li style="background-image: url(images/slider/beach2.png);"></li>
-                        <li style="background-image: url(images/slider/beach3.png);"></li>
-                        <li style="background-image: url(images/slider/beach4.png);"></li>
-                        <li style="background-image: url(images/slider/beach5.png);"></li>
-						<li style="background-image: url(images/slider/overview1.png);"></li>
-						<li class="fixed" style="background-image: url(images/slider/beach1.png);"></li>
-					</ul>
-				</div>
-
-				<div id="ceremony" class="wrapper clearfix">
-
-                    <h2 class="title">Wedding</h2>
-                    <img src="images/CeremonyReception.png">
-
-                    <div class="ceremony-1">
-                        <h3>Ceremony</h3>
-                        <h4>Scotts Head Main Beach (near Surf Club)</h4>
-                        <p>4pm</p>
-                        <p>Look for what looks like a wedding</p>
-                        <p><br /></p>
-                        <div>
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m20!1m8!1m3!1d3167.4241185025107!2d144.55698999999998!3d-37.45070700000001!3m2!1i1024!2i768!4f13.1!4m9!1i0!3e6!4m0!4m5!1s0x6ad6e39850166ba7%3A0xea493d9a9f292287!2sLawson+Lodge%2C+227+Lawson+Rd%2C+Macedon+VIC+3440!3m2!1d-37.450707!2d144.55698999999998!5e0!3m2!1sen!2sau!4v1399293851270" width="400" height="300" frameborder="0" style="border:0"></iframe>
-                        </div>
-                    </div>
-                    <div class="ceremony-2">
-
-                        <h3>Reception</h3>
-                        <h4>Scotts Head Surf Club</h4>
-                        <p>Drinks and Nibbles served post ceremony</p>
-                    </div>
+			<section id="ceremony" class="ceremony">
+                <h2 class="title">Ceremony</h2>
+                <br>
+                <img src="images/CeremonyReception.jpg">
+                <div class="wrapper">
+                    <fieldset>
+                            <div class="checkbox">
+                                <h3>Ceremony</h3>
+                                <h4>Scotts Head Little Beach</h4>
+                                <p>4.30 pm</p>
+                                <p><br /></p>
+                            </div>
+                            <div class="checkbox">
+                                <h3>Reception</h3>
+                                <h4>Scotts Head Surf Club</h4>
+                                <p>Drinks and Nibbles served post ceremony</p>
+                                <p>Full reception commencing 6pm</p>
+                            </div>
+                    </fieldset>
+                    <br/>
                     <div>
-                        <p>Full reception will kick off approx 6pm</p>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3429.0335137213915!2d152.9964691!3d-30.74556010000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9c2deb7a376be1%3A0xe69ff0e49af03085!2sShort+St%2C+Scotts+Head+NSW+2447!5e0!3m2!1sen!2sau!4v1405934942457" width="600" height="450" frameborder="0" style="border:0"></iframe>
                     </div>
                 </div>
 			</section>
@@ -173,13 +150,21 @@ $(document).ready(function() {
 
             <!--- DAY AFTER STARTS -->
             <section id="dayAfter" class="dayAfter">
-                <h2 class="title">Day After</h2>
+                <h2 class="title">Day Before</h2>
                 <div class="wrapper">
-                    <h4>Justin & Clare hosting a BBQ Brunch</h4>
-                    <p>Address line 1</p>
-                    <p>Address line 1</p>
-                    <p>BBQ kicks off from 11am</p>
-                    <div><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1062.627820254995!2d152.99260900000002!3d-30.746954000000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9c2d9547e1a287%3A0x516862782108136!2s33+Adin+St%2C+Scotts+Head+NSW+2447!5e1!3m2!1sen!2sau!4v1405774526191" width="600" height="450" frameborder="0" style="border:0"></iframe></div>
+                    <h1>Justin &amp; Clare hosting a BBQ</h1>
+                    <h4>Time</h4>
+                    <p>11am</p>
+
+                    <h4>Location</h4>
+                    <p>Short St</p>
+                    <p> Scotts Head</p>
+                    <p>BBQ area in the park near the play equipment</p>
+                    <h4>What to bring</h4>
+                    <p>Food supplied, Justin will be cooking the BBQ</p>
+                    <p>BYO alcohol</p>
+                    <br>
+                    <div><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3429.0335137213915!2d152.9964691!3d-30.74556010000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9c2deb7a376be1%3A0xe69ff0e49af03085!2sShort+St%2C+Scotts+Head+NSW+2447!5e0!3m2!1sen!2sau!4v1405934942457" width="600" height="450" frameborder="0" style="border:0"></iframe></div>
                 </div>
 
             </section>
@@ -190,7 +175,7 @@ $(document).ready(function() {
                 <h2 class="title">Activities</h2>
                 <div class="wrapper">
 
-                    <h1>Looking for other things to do before or After the wedding?</h1>
+                    <h1>Looking for other things to do before or after the wedding?</h1>
                     <h3>Justin recommends</h3>
                     <p><a href="http://www.raleighraceway.com.au/" target="_blank">Go Karting</a></p>
                     <p><a href="http://www.bonvillegolf.com.au/" target="_blank">Golf</a></p>
@@ -220,7 +205,7 @@ $(document).ready(function() {
                     <div class="checkbox">
                         <h4>Carriers flying from Melbourne</h4>
                         <p><a href="http://www.virginaustralia.com/au/en/" target="_blank">Virgin Australia</a></p>
-                        <p><a href="http://www.qantas.com.au/travel/airlines/home/au/en" target="_blank">Quantas</a></p>
+                        <p><a href="http://www.qantas.com.au/travel/airlines/home/au/en" target="_blank">Qantas</a></p>
                     </div>
                     <div class="checkbox">
                         <h4>Carriers flying from Sydney</h4>
@@ -229,12 +214,24 @@ $(document).ready(function() {
                         <p><a href="http://www.tigerair.com/au/en/" target="_blank">Tiger Air</a></p>
                     </div>
                 </fieldset>
-                <p><a href="http://adisos.com">Adisos</a> or <a href="http://www.skyscanner.com.au/">Sky Scanner</a> can help with national & international flight searches</p>
+                <p><a href="http://adisos.com">Adisos</a> or <a href="http://www.skyscanner.com.au/">Sky Scanner</a> can help with national &amp; international flight searches</p>
             </div>
 
         </section>
         <!--- TRAVEL ENDS -->
 
+        <!--- ACCOMMODATION STARTS -->
+        <section id="accommodation" class="accommodation">
+            <h2 class="title">Accom</h2>
+            <div class="wrapper">
+
+                <h1>Links to accommodation</h1>
+                    <div class="">
+                        <p><a href="" target="_blank">Link 1</a></p>
+                    </div>
+                </div>
+        </section>
+        <!--- ACCOMMODATION ENDS -->
 
 			<!--- RSVP STARTS -->
 			<section id="rsvp" class="contact">
@@ -242,21 +239,17 @@ $(document).ready(function() {
 				<div class="wrapper">
 
 					<div id="note">
-						<p>We look forward to celebrating with you.</p> 
-						<p>Please reply by June 30, 2014.</p>
+						<p>We look forward to celebrating with you</p>
+						<p>Please reply by the 5th October</p>
 					</div>
 					
 					<form action="#" method="post">
 						
 						<fieldset>
-							<h3>Will you be attending at the events?</h3>
-							<div class="checkbox">
-								<input type="checkbox" name="check-ceremony" id="check-ceremony" >
-								<label for="check-ceremony">I (we) will be attending the ceremony.</label>
-							</div>
+							<h3>Can you please RSVP by the 5th October</h3>
 							<div class="checkbox">
 								<input type="checkbox" name="check-reception" id="check-reception" >
-								<label for="check-reception">I (we) will be attending the reception.</label>
+								<label for="check-reception">I/we will be attending the reception.</label>
 							</div>
 						</fieldset>
 
@@ -270,7 +263,7 @@ $(document).ready(function() {
 							<h3>Personal Informations:</h3>
 							<input type="text" id="name" name="name" placeholder="Your Name*">
 							<input type="email" id="email" name="email" placeholder="Your E-mail*">
-							<textarea name="message" class="form-message" id="message" placeholder="Want to drop us a line ?"></textarea>
+							<textarea name="message" class="form-message" id="message" placeholder="Please list the people that you are responding on behalf of ?"></textarea>
 						</fieldset>
 						
 						<input type="submit" class="submit" id="send" value="send">
@@ -281,18 +274,12 @@ $(document).ready(function() {
 					<div class="contact-details contact-details-1">
 						<h4>Clare</h4>
 						<p>+61 423 226 059</p>
-						<p>
-							<a href="mailto:clareberghofer@gmail.com?subject=RSVP">clareberghofer@gmail.com</a>
-						</p>
 					</div>
 					<div class="contact-details contact-details-2">
 						<h4>Justin</h4>
 						<p>+61 409 907 639</p>
-						<p>
-							<a href="mailto:justinlodd@gmail.com?subject=RSVP">justinlodd@gmail.com</a>
-						</p>
 					</div>
-						
+						<p><a href="mailto:roadtoaus@gmail.com?Subject=From Website">roadtoaus@gmail.com</a></p>
 				</div>
 					
 			</section>
